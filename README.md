@@ -14,16 +14,17 @@ Seung min Yoo / Seung-David-Yoo
 
 Project Description/Outline
 
-To look at how a country's geographical location is affected by pollution/CO2 emissions compared to a country's importa and exports
+To determine the relationship between conlict countries with their import and export of arms/overall gdp/geographical location
 
 Research Question to Answer
 
-1. Pollution v. Life Expectancy
-2. CO2 emissions v. Life Expectancy
-3. Higher imports/exports V. Pollution
+1. Arms imports/exports V. Countries with conflicts
+2. Financial indicatiors of those countries with conflicts
+3. Change over time -- higher or lower occurences of conflict
 
 Dataset to Be Used
 
 World Development Indicator Dataset
+Main Conflict Table
 
 Rough Breakdown of Tasks
