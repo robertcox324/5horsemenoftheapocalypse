@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+#CSV files etc
+Country.csv
+CountryNotes.csv
+database.sqlite
+Footnotes.csv
+hashes.txt
+Indicators.csv
+Series.csv
+SeriesNotes.csv
+Main Conflict Table.csv
+
 # Distribution / packaging
 .Python
 build/
