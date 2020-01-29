@@ -1,8 +1,7 @@
 # 5horsemenoftheapocalypse
 Project1
 
-Project Title
-
+Comparing CO2 emissions and Renewable energy consumption in correlation to the GDP for Developed versus Undeveloped Countries
 
 Team Members
 
@@ -14,17 +13,19 @@ Seung min Yoo / Seung-David-Yoo
 
 Project Description/Outline
 
-To determine the relationship between conlict countries with their import and export of arms/overall gdp/geographical location
+I was exploring different indicators within the same dataset and there are interesting things. CO2 emission and GDP correlation in US and US versus developed countries. We are looking at different sources of the CO2 emissions and their correlation to CO2 emission per capita, etc. We can then relate it to the life expectancy as well or different indicators.
 
 Research Question to Answer
 
-1. Arms imports/exports V. Countries with conflicts
-2. Financial indicatiors of those countries with conflicts
-3. Change over time -- higher or lower occurences of conflict
+Over time has CO2 emissions or renewable energy consumption of a country increased or decreased in relation to a countries GDP (If the country is considered developed or undeveloped)
 
 Dataset to Be Used
 
 World Development Indicator Dataset
-Main Conflict Table
+
 
 Rough Breakdown of Tasks
+
+1. List countries to consider (5 developed & 5 undeveloped countries)
+2. Determine which indicators in the dataset are important
+3. Compare & contrast
