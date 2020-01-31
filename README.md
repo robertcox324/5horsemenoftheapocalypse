@@ -28,4 +28,8 @@ Rough Breakdown of Tasks
 
 1. List countries to consider (5 developed & 5 undeveloped countries)
 2. Determine which indicators in the dataset are important
+<<<<<<< HEAD
 3. Compare & contrast
+=======
+3. Compare & contrast
+>>>>>>> ca45d43d6b40a278a20fe62ab12bd8a292267f53
